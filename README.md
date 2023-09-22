@@ -5,9 +5,7 @@
     - Advanced user in Excel
     - Fervent computer virus remover without data loss
 - 🌱 currently learning:
-  - web programming with HTML-CSS-JS
-  - C# course at the [UTN-FRT](https://frt.cvg.utn.edu.ar/) (Universidad Tecnológica Nacional - Facultad Regional Tucumán) - professor: Escobar Estela Mabel
-  - Second stage of the #ArgentinaProgram plan - [Full Stack Developer](https://www.argentina.gob.ar/produccion/transformacion-digital-y-economia-del-conocimiento/argentina-programa) - Professor: Karin Fleischer
+  - React in the Codo a Codo Academy Professor: Gisela Flores.
 - 💞️ Interests
     - Backend lover, falling in love with the FrontEnd
     - Sports, especially rugby. Fan of Boca Juniors, Club Atético Talleres from Córdoba and Huirapuca R.C.
