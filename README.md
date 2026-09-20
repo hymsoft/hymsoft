@@ -1,14 +1,15 @@
 Hi, I'm @hymsoft
 
-About
+About me
 
-- I am an old programmer, I started with dbase, Clipper, FoxPro for D.O.S., Visual FoxPro, basic, visual basic...
-- Passionate about technology
-- Advanced user in Excel
-- Fervent computer virus remover without data loss
+Old-school programmer with 30+ years of experience, always working independently under my own shop, HyM Soft. Started out with dBase, Clipper and FoxPro for DOS, moved through Visual FoxPro and Basic, and now mainly work with HTML, CSS, JS, React, Next.js, C# and SQL. Backend lover, frontend admirer.
 
-Knowledge and Interests
+Author of a Q&A-style technical book trilogy covering HTML, CSS and JavaScript, built for developers looking to nail the fundamentals of web development.
 
-- Backend lover, falling in love with the FrontEnd
-- HTML | CSS | JS | React | and more...
-- Sports, especially rugby. Fan of Boca Juniors, Club Atético Talleres from Córdoba and Huirapuca R.C.
+Some personal projects: Cronos View (Guard Tour Control System), BetCalc Dice++, AlquiIndex.
+
+Skills & interests
+
+HTML | CSS | JS | React | Next.js | C# | SQL
+
+Outside of code: Boca Juniors and Talleres de Córdoba fan (football), and Huirapuca R.C. (rugby) — my favorite sport.
